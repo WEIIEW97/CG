@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/代码框架",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "polynomials": "cpp",
+        "cmath": "cpp"
+    }
+}
